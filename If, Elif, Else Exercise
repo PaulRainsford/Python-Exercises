@@ -1,0 +1,5 @@
+print('if elif else - Exercise')
+def calculator(num1, num2, operator):
+    num1 = input('Enter first number: ')
+    num2 = input('Enter second number: ')
+    operator = input('Enter an operator: ')
