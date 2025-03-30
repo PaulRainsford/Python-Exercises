@@ -1,1 +1,1 @@
-A repo of Python exercises incuding arrays, lists 
+A repo of Python exercises incuding arrays, tuples, lists 
